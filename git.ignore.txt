@@ -1,0 +1,2 @@
+# git ignore javaScript file
+* . JavaScript file
